@@ -5,7 +5,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 
 minimal_mistakes_skin: "contrast" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise
 
-title: "P-VLAM 2020"
+title: "P-VLAM 2022"
 
 include: 
   - _pages
