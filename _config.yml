@@ -1,0 +1,28 @@
+plugins:
+  - jekyll-include-cache
+
+remote_theme: "mmistakes/minimal-mistakes@4.16.0"
+
+minimal_mistakes_skin: "contrast" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise
+
+title: "ONION 2020"
+
+include: 
+  - _pages
+  - _data
+  - assets
+
+author:
+  name      : "PVLAM 2022"
+  avatar    : "/assets/face.svg"
+  bio       : "Second Workshop on People in Vision, Language And the Mind"
+  location  : "Marseille, France"
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
