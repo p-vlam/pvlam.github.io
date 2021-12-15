@@ -3,7 +3,9 @@ permalink: /dates/
 title: Important dates
 ---
 
-Paper submission deadline|~~February 14, 2020~~February 21, 2020
-Notification of acceptance|March 13, 2020
-Camera ready Papers|April 2, 2020
-Workshop|May 16, 2020 (afternoon)  
+## Note that the dates below are indicative
+
+Paper submission deadline|March 6, 2022  
+Notification of acceptance|April 8, 2022 
+Camera ready Papers|May 2, 2022
+Workshop|June 25, 2022 (TBC)

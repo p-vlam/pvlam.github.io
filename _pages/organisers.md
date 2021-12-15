@@ -1,6 +1,6 @@
 ---
 permalink: /organisers/
-title: ONION 2020 Organisers
+title: P-VLAM 2022 Organisers
 ---
 
 - [Patrizia Paggio](https://www.um.edu.mt/profile/patriziapaggio), University of Copenhagen, Denmark and University of Malta, Malta
