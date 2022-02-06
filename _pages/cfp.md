@@ -46,7 +46,7 @@ Short paper submissions may consist of up to 4 pages of content, while long pape
 
 All submissions must follow the [LREC 2022 style files](https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/), which are available for LaTeX (preferred) and MS Word. 
 
-Papers must be submitted digitally, in PDF format, and uploaded through the START online submission system here. **A link will be provided.**
+Papers must be submitted digitally, in PDF format, and uploaded through the [START online submission system](https://www.softconf.com/lrec2022/P-VLAM/). 
 
 The authors of accepted papers will be required to submit a camera-ready version to be included in the final proceedings. Authors of accepted papers will be notified after the notification of acceptance with further details.
 
