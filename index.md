@@ -5,7 +5,7 @@ title: P-VLAM 2022: 2nd Workshop on People in Vision, Language And the Mind
 
 ### A workshop co-located with [LREC 2022](https://lrec2022.lrec-conf.org/en/)
 ### Palais du Pharo, Marseilles, France
-### New submission deadline: April 15, 2022
+### Program announced!
 
 
 This workshop is the second in the series on People in Vision, Language And the Mind. The first edition,  [ONION 2020](https://onion2020.github.io/) was co-located with [LREC 2020](https://lrec2020.lrec-conf.org/en/).
