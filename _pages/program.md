@@ -11,7 +11,6 @@ The face is a powerful channel of non-verbal communication. Anatomically-based f
 
 ## Workshop schedule
 
-|      |      |      |
 | :--- | :--- | ---: |
 | 09:15 - 10:10  | Itır Önal Ertuğrul | **Keynote:** *Your face says it all: Automated analysis and synthesis of facial actions* |
 | 10:10 - 10:30  | Fangjun Li, David Hogg, Anthony Cohn | *Exploring the GLIDE model for Human Action Effect Prediction* |
